@@ -57,7 +57,7 @@ Tensorflow Model has been converted to tensorflow lite model. The code can be fo
  ```
 Replace your-image-name with a suitable name for your Docker image. After building the image, you can run a container based on it.
 
-## Deployment of AWS Lambda
+## Deployment on AWS Lambda
 
 The Plant Seedling Classification model has been successfully deployed on AWS Lambda, enabling efficient weed and crop seedling differentiation. The deployment workflow includes:
 
